@@ -18,7 +18,7 @@ header {
     align-content: center;
     gap: 20px 20px;
     background-color: whitesmoke;
-    background-image: url(public/join.svg);
+    background-image: url(src/join.svg);
     background-repeat: no-repeat;
     background-size: 50% 70vh;
     background-position: right bottom;
